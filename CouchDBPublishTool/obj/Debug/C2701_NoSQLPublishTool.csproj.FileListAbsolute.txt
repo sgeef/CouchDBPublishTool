@@ -1,0 +1,8 @@
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\bin\Debug\C2701_NoSQLPublishTool.exe.config
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\bin\Debug\C2701_NoSQLPublishTool.exe
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\bin\Debug\C2701_NoSQLPublishTool.pdb
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\bin\Debug\Newtonsoft.Json.dll
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\bin\Debug\Newtonsoft.Json.xml
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\obj\Debug\C2701_NoSQLPublishTool.csprojResolveAssemblyReference.cache
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\obj\Debug\C2701_NoSQLPublishTool.exe
+C:\Tinyloot\Projects\C2700_TinylootTools\C2701_NoSQLPublishTool\C2701_NoSQLPublishTool\obj\Debug\C2701_NoSQLPublishTool.pdb

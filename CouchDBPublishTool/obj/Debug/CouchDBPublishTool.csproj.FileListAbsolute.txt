@@ -1,0 +1,1 @@
+C:\Tinyloot\Projects\C2700_TinylootTools\CouchDBPublishTool\CouchDBPublishTool\bin\Debug\CouchDBPublishTool.exe.config
