@@ -16,7 +16,6 @@ namespace C2701_NoSQLPublishTool
         static void Main(string[] args)
         {
             //Call Init
-            
             Init();
         }
 
